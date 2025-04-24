@@ -1,2 +1,2 @@
 a =1000
-b="technology"
+b="University"
